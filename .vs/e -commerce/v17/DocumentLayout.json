@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\userr\\Documents\\e -commerce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2C4E7D6-75C2-4B18-B3C3-C3B33D8336CC}|e -commerce\\e -commerce.csproj|c:\\users\\userr\\documents\\e -commerce\\e -commerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2C4E7D6-75C2-4B18-B3C3-C3B33D8336CC}|e -commerce\\e -commerce.csproj|solutionrelative:e -commerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\userr\\Documents\\e -commerce\\e -commerce\\Program.cs",
+              "RelativeDocumentMoniker": "e -commerce\\Program.cs",
+              "ToolTip": "C:\\Users\\userr\\Documents\\e -commerce\\e -commerce\\Program.cs",
+              "RelativeToolTip": "e -commerce\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T09:00:25.926Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
